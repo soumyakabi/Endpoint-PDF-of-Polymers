@@ -1,0 +1,9 @@
+Long PDF ver 1: Generation of simulated PDF for P(x) at different chain lengths (N) by FJC, WLC and SAW model. The simulated data has been compared to the three analytical solution like a) Fourier solution of the diffusion equation b) Simple Gaussian c) Truncated Gaussian respectively.
+
+Long PDF ver 2: Same as above but the number of walks have been increased. It has been observed that just increase of the number of walks can not give the optimum result
+
+Tethering sensitivity: Generation of simulated PDF for P(x) at fixed chain length (N=25) but different tethering point x0 by FJC, WLC and SAW model. The simulated data has been compared to the analytical Fourier solution of the diffusion equation.
+
+Persistent length: Generation of simulated PDF for P(x) at different persistent length for WLC model
+
+Trans PDF: Generation of simulated PDF for P(y) at different chain lengths (N) by FJC, WLC and SAW model. The simulated data has been compared to the two analytical solution like a) Fourier solution of the diffusion equation b) image method solution, respectively.
